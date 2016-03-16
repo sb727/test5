@@ -40,6 +40,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	</style>
 </head>
 <body>
+<h1>Hello World!</h1>
 
 <div id="login">
 	<?php 
